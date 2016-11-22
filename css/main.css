@@ -13,6 +13,8 @@
 .clearfix:after {
   clear: both;
 }
+
+/*HOME*/
 /*header*/
 .navbar-default {
 	background-color: #34495E;
@@ -34,6 +36,7 @@
     color: white;
     background-color: #2C3E50;
 }
+/*HOME*/
 /*portada-home--*/
 
 .seccion1 {
@@ -166,6 +169,9 @@
 	padding: 0px;
 }
 
+.categoria li{
+	color: black;
+}
 /*footer final*/
 .navegador {
 	background-color: #2C3E50;
